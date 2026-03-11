@@ -84,6 +84,8 @@ Osenpa_Auto_Clicker/
 │   │   ├── profiles_panel.py # Profile save/load panel
 │   │   ├── settings_panel.py # Settings (hotkeys, theme, language)
 │   │   ├── step_edit_dialog.py # Step editor dialog
+│   │   ├── help_panel.py     # Scrollable help and guide panel
+│   │   ├── donate_panel.py   # Support / donation panel
 │   │   ├── overlay_indicator.py# Floating status overlay
 │   │   ├── theme.py          # Color tokens and widget factories
 │   │   └── interval_widget.py# Reusable interval input widget
@@ -91,6 +93,8 @@ Osenpa_Auto_Clicker/
 │   │   ├── autosave.py       # Session auto-save / restore
 │   │   ├── file_manager.py   # JSON/CSV/TXT step export & import
 │   │   ├── i18n.py           # Internationalization (tr() function)
+│   │   ├── strings.py        # Fallback UI text registry (Python-side strings)
+│   │   ├── language.py       # Legacy compatibility re-export from strings.py
 │   │   ├── profile_manager.py# Named profile save/load/delete
 │   │   └── tooltip.py        # Hover tooltip helper
 │   └── locales/              # Translation files (e.g. en.json, tr.json)

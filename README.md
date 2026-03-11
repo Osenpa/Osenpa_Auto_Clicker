@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![Release](https://img.shields.io/github/v/release/Osenpa/Osenpa_Auto_Clicker)](https://github.com/Osenpa/Osenpa_Auto_Clicker/releases)
 
-**Osenpa Auto Clicker** is a free, open-source, Python-based automation tool with a modern GUI. It combines a fully-featured auto clicker, macro recorder, image/color detection bot, keyboard automator, and scheduler — all in one application.
+**Osenpa Auto Clicker** is a free, open-source automation tool for Windows built with Python and Tkinter. It combines a fully-featured auto clicker, mouse & keyboard macro recorder, image/color detection bot, conditional logic steps, and a built-in scheduler — all in one modern GUI application. No coding required.
 
 > **Platform:** Windows (primary). Linux/macOS may work with limited functionality.
 
@@ -32,7 +32,7 @@
 
 | Category | Details |
 |---|---|
-| 🖱️ **Mouse Automation** | Auto-click at fixed coordinates or current cursor position; drag support; left, right, and middle buttons |
+| 🖱️ **Mouse Automation** | Auto-click at fixed coordinates or current cursor position; drag support; scroll wheel; left, right, and middle buttons |
 | ⌨️ **Keyboard Automation** | Single key presses, hotkey combos (e.g. `Ctrl+C`), configurable repeat and interval |
 | 🔍 **Image Detection** | Click when a template image appears on screen; multi-image support; confidence threshold; scan area restriction |
 | 🎨 **Color Detection** | Click when a target color (with tolerance) appears on screen; multi-color support; scan area restriction |
