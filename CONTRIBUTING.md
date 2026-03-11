@@ -9,7 +9,7 @@ Thank you for considering contributing! Here's how you can help.
 
 ## Suggesting Features
 
-- Open an issue with the title prefix `[Feature Request]`.
+- Open an issue using the [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) template.
 - Describe the use case and expected behavior.
 
 ## Submitting Code
