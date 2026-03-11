@@ -2,10 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+MANIFEST
 
 # PyInstaller
-build/
-dist/
 *.spec
 
 # VS Code / IDEs
@@ -18,6 +24,10 @@ dist/
 venv/
 env/
 ENV/
+.venv/
+
+# Python version managers
+.python-version
 
 # OS generated files
 .DS_Store
