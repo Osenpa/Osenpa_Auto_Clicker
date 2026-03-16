@@ -1,0 +1,18 @@
+Osenpa Auto Clicker for Windows
+
+Contents
+- OsenpaAutoClicker.exe
+- LICENSE
+
+How to use
+1. Extract the zip to any folder.
+2. Run OsenpaAutoClicker.exe.
+3. If Windows SmartScreen appears, review the file and continue only if you trust the source.
+
+Notes
+- This package is intended for Windows.
+- User settings and profiles are stored outside this folder.
+- Use the software only where automation is allowed.
+
+Project
+- Source repository: https://github.com/Osenpa
