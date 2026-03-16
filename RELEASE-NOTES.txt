@@ -15,4 +15,6 @@ Notes
 - Use the software only where automation is allowed.
 
 Project
-- Source repository: https://github.com/Osenpa
+- Website: https://osenpa.com
+- Support page: https://osenpa.com/donate
+- Source repository: https://codeberg.org/Osenpa/osenpa-auto-clicker

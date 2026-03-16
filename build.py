@@ -2,7 +2,7 @@ import os
 import subprocess
 from pathlib import Path
 
-APP_NAME = "Osenpa Auto Clicker"
+APP_NAME = "OsenpaAutoClicker"
 ROOT = Path(__file__).resolve().parent
 ICON_PATH = ROOT / "osenpa" / "osenpa_release.ico"
 EXE_ICON_PATH = ROOT / "osenpa" / "osenpa_exe.ico"
@@ -66,7 +66,7 @@ def build():
     ensure_multi_size_icon()
     ensure_exe_icon_variant()
 
-    print("Building Osenpa Auto Clicker executable...")
+    print("Building OsenpaAutoClicker executable...")
     cmd = [
         "pyinstaller",
         "--noconfirm",

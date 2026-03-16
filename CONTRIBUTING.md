@@ -4,6 +4,11 @@
 
 Contributions are welcome for bug fixes, UI improvements, localization updates, documentation, packaging, and test coverage.
 
+Project links:
+- Website: [osenpa.com](https://osenpa.com)
+- Source code: [codeberg.org/Osenpa/osenpa-auto-clicker](https://codeberg.org/Osenpa/osenpa-auto-clicker)
+- Support: [osenpa.com/donate](https://osenpa.com/donate)
+
 ## Before Opening a Pull Request
 
 1. Keep changes focused and easy to review.

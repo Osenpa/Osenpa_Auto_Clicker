@@ -1,6 +1,8 @@
 # Osenpa Auto Clicker
 
-Osenpa Auto Clicker is a desktop automation tool for Windows built with Python and Tkinter. It provides configurable mouse and keyboard automation, profile management, macro recording, image detection, color detection, and multi-language support in a packaged GUI application.
+Osenpa Auto Clicker is a Windows auto clicker, macro recorder, and desktop automation tool built with Python and Tkinter. It provides configurable mouse and keyboard automation, profile management, image detection, color detection, and multi-language support in a packaged GUI application.
+
+Website: [osenpa.com](https://osenpa.com)
 
 ## Highlights
 
@@ -9,7 +11,12 @@ Osenpa Auto Clicker is a desktop automation tool for Windows built with Python a
 - Macro recording support
 - Image and color detection based triggers
 - Multi-language interface
+- Windows-ready packaged executable
 - Packaged Windows executable included in [`dist/`](dist/)
+
+## Keywords
+
+Osenpa Auto Clicker, Windows auto clicker, macro recorder, image detection bot, color detection bot, desktop automation tool, Python auto clicker, Tkinter automation app.
 
 ## Project Status
 
@@ -39,7 +46,7 @@ python osenpa/main.py
 
 ### Run the packaged executable
 
-Launch [`dist/Osenpa Auto Clicker.exe`](dist/Osenpa%20Auto%20Clicker.exe) on Windows.
+Launch [`dist/OsenpaAutoClicker.exe`](dist/OsenpaAutoClicker.exe) on Windows.
 
 ## Build a New Executable
 
@@ -75,6 +82,12 @@ These paths should not be committed to the repository.
 
 Use this software only in environments and applications where automation is allowed. You are responsible for complying with the terms of service, security rules, and local regulations that apply to your use case.
 
+## Links
+
+- Website: [osenpa.com](https://osenpa.com)
+- Donate: [osenpa.com/donate](https://osenpa.com/donate)
+- Source code: [Codeberg repository](https://codeberg.org/Osenpa/osenpa-auto-clicker)
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution and pull request expectations.
@@ -85,5 +98,7 @@ See [SECURITY.md](SECURITY.md) for how to report vulnerabilities.
 
 ## Contact
 
+- Website: [osenpa.com](https://osenpa.com)
 - Email: `osenpacom@gmail.com`
-- GitHub: [Osenpa](https://github.com/Osenpa)
+- Donate: [osenpa.com/donate](https://osenpa.com/donate)
+- Codeberg: [Osenpa Auto Clicker](https://codeberg.org/Osenpa/osenpa-auto-clicker)

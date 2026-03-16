@@ -10,3 +10,4 @@ All notable changes to this project should be documented in this file.
 - Added `.gitattributes` for binary and line-ending handling.
 - Updated `.gitignore` to keep the packaged `.exe` while excluding generated artifacts.
 - Removed generated Python cache files from the working tree.
+- Fixed documentation links and aligned public project links with Codeberg and osenpa.com.
