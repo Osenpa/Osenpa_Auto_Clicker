@@ -16,5 +16,10 @@ Notes
 
 Project
 - Website: https://osenpa.com
+- App page: https://osenpa.com/osenpa-auto-clicker
 - Support page: https://osenpa.com/donate
 - Source repository: https://codeberg.org/Osenpa/osenpa-auto-clicker
+
+Support
+If Osenpa Auto Clicker helps you save time, you can support the project through the donate page. Contributions help keep the software free, improve future updates, and support ongoing development:
+https://osenpa.com/donate
