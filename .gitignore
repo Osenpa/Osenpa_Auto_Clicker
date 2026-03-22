@@ -13,8 +13,6 @@ ENV/
 build/
 *.spec
 dist/*
-!dist/
-!dist/*.exe
 Osenpa-Auto-Clicker-Windows.zip
 release-staging/
 
@@ -30,6 +28,7 @@ release-staging/
 config.json
 profiles/
 *.log
+osenpa/language.json
 
 # OS files
 .DS_Store

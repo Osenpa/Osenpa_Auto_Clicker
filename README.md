@@ -11,8 +11,7 @@ Website: [osenpa.com](https://osenpa.com)
 - Macro recording support
 - Image and color detection based triggers
 - Multi-language interface
-- Windows-ready packaged executable
-- Packaged Windows executable included in [`dist/`](dist/)
+- Windows-ready packaged release build
 
 ## Keywords
 
@@ -24,7 +23,7 @@ This repository is prepared for public source release.
 
 - Source code is included.
 - License is MIT.
-- The prebuilt Windows executable is kept in `dist/`.
+- Release builds are distributed through repository releases.
 - Generated Python cache files are excluded from version control.
 
 ## Requirements
@@ -44,9 +43,9 @@ pip install -r requirements.txt
 python osenpa/main.py
 ```
 
-### Run the packaged executable
+### Download the packaged build
 
-Launch [`dist/OsenpaAutoClicker.exe`](dist/OsenpaAutoClicker.exe) on Windows.
+Download the Windows ZIP package from the repository release page, extract it, and run the application.
 
 ## Build a New Executable
 
@@ -56,7 +55,7 @@ pip install pyinstaller
 python build.py
 ```
 
-The build script regenerates icon assets and creates a one-file Windows executable in `dist/`.
+The build script regenerates icon assets and creates a Windows executable in `dist/` for release packaging.
 
 ## Repository Layout
 
@@ -86,7 +85,8 @@ Use this software only in environments and applications where automation is allo
 
 - Website: [osenpa.com](https://osenpa.com)
 - Donate: [osenpa.com/donate](https://osenpa.com/donate)
-- Source code: [Codeberg repository](https://codeberg.org/Osenpa/osenpa-auto-clicker)
+- GitHub: [Osenpa_Auto_Clicker](https://github.com/Osenpa/Osenpa_Auto_Clicker)
+- Codeberg: [osenpa-auto-clicker](https://codeberg.org/Osenpa/osenpa-auto-clicker)
 
 ## Contributing
 
@@ -101,4 +101,5 @@ See [SECURITY.md](SECURITY.md) for how to report vulnerabilities.
 - Website: [osenpa.com](https://osenpa.com)
 - Email: `osenpacom@gmail.com`
 - Donate: [osenpa.com/donate](https://osenpa.com/donate)
+- GitHub: [Osenpa_Auto_Clicker](https://github.com/Osenpa/Osenpa_Auto_Clicker)
 - Codeberg: [Osenpa Auto Clicker](https://codeberg.org/Osenpa/osenpa-auto-clicker)
