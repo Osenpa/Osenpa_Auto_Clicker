@@ -3,6 +3,7 @@
 Osenpa Auto Clicker is a Windows auto clicker, macro recorder, and desktop automation tool built with Python and Tkinter. It provides configurable mouse and keyboard automation, profile management, image detection, color detection, and multi-language support in a packaged GUI application.
 
 Website: [osenpa.com](https://osenpa.com)
+Microsoft Store: [Osenpa Auto Clicker](https://apps.microsoft.com/detail/9MZ605RFLM1V)
 
 ## Highlights
 
@@ -45,7 +46,10 @@ python osenpa/main.py
 
 ### Download the packaged build
 
-Download the Windows ZIP package from the repository release page, extract it, and run the application.
+Choose the package source you prefer:
+
+- Microsoft Store: [Osenpa Auto Clicker](https://apps.microsoft.com/detail/9MZ605RFLM1V)
+- Repository release page: download the Windows ZIP package, extract it, and run the application.
 
 ## Build a New Executable
 
@@ -84,6 +88,7 @@ Use this software only in environments and applications where automation is allo
 ## Links
 
 - Website: [osenpa.com](https://osenpa.com)
+- Microsoft Store: [Osenpa Auto Clicker](https://apps.microsoft.com/detail/9MZ605RFLM1V)
 - Donate: [osenpa.com/donate](https://osenpa.com/donate)
 - GitHub: [Osenpa_Auto_Clicker](https://github.com/Osenpa/Osenpa_Auto_Clicker)
 - Codeberg: [osenpa-auto-clicker](https://codeberg.org/Osenpa/osenpa-auto-clicker)
@@ -99,6 +104,7 @@ See [SECURITY.md](SECURITY.md) for how to report vulnerabilities.
 ## Contact
 
 - Website: [osenpa.com](https://osenpa.com)
+- Microsoft Store: [Osenpa Auto Clicker](https://apps.microsoft.com/detail/9MZ605RFLM1V)
 - Email: `osenpacom@gmail.com`
 - Donate: [osenpa.com/donate](https://osenpa.com/donate)
 - GitHub: [Osenpa_Auto_Clicker](https://github.com/Osenpa/Osenpa_Auto_Clicker)
